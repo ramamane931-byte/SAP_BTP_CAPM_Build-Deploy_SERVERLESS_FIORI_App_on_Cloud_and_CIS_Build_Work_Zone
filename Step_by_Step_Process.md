@@ -172,7 +172,7 @@
 ###
 #### After build and deployed this FIORI app, it will be stored to HTML5 Repository:
 
-<img width="644" height="335" alt="image" src="https://github.com/user-attachments/assets/4d393428-35df-4111-bc61-3c33408343d2" />
+<img width="928" height="481" alt="image" src="https://github.com/user-attachments/assets/4d393428-35df-4111-bc61-3c33408343d2" />
 
 
 <img width="928" height="481" alt="image" src="https://github.com/user-attachments/assets/aa5671c7-b37b-4aef-96ce-c5324df7601c" />
