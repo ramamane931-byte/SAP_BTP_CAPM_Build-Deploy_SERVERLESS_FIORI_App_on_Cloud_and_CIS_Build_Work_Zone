@@ -261,6 +261,101 @@ Subbu will login to CIS:
 ###
 Application Admin (Subbu) added the Business User ‘Shaarda Sharma’:
 
+<img width="1031" height="365" alt="image" src="https://github.com/user-attachments/assets/afca11cf-03de-43dd-9f3b-87949d3df8e0" />
+
+<img width="1031" height="430" alt="image" src="https://github.com/user-attachments/assets/9e3ce518-b352-4cad-8764-3bf5d5bca3ce" />
+
+<img width="1031" height="465" alt="image" src="https://github.com/user-attachments/assets/8bfaadf1-6e47-44c7-8bf2-601957dfd3fa" />
+
+<img width="376" height="679" alt="image" src="https://github.com/user-attachments/assets/8ca19646-4731-45f9-a856-13e242eb1595" />
+
+<img width="376" height="531" alt="image" src="https://github.com/user-attachments/assets/248b0e1a-7685-4070-9a75-fbd84735e46c" />
+
+<img width="1031" height="441" alt="image" src="https://github.com/user-attachments/assets/ef3f6c7d-a286-46b2-a0dc-116ef48ad1fc" />
+
+###
+###
+Business User (Shaarda Sharma) added successfully:
+
+<img width="1031" height="435" alt="image" src="https://github.com/user-attachments/assets/6427d125-1516-4226-97df-4ccf59258938" />
+
+###
+###
+Now, Application Admin (Subbu) need to grant Shaarda Sharma permission to access our site.
+Hence, go to the Site Directory to copy the url and share it with the Business user (Shaarda Sharma):
+
+<img width="1031" height="253" alt="image" src="https://github.com/user-attachments/assets/8f8b34d4-7ef8-4b44-92d3-b53f3d7a11a7" />
+
+###
+###
+URL: https://31770533trial.launchpad.cfapps.us10.hana.ondemand.com/site?siteId=db53ae55-aac8-413a-8558-b8b1d723f3e9#Shell-home
+
+<img width="1031" height="248" alt="image" src="https://github.com/user-attachments/assets/272b6090-e640-46c4-bf41-275e333aca8e" />
+
+<img width="1031" height="499" alt="image" src="https://github.com/user-attachments/assets/475ab1b0-0642-4014-b7d7-d479436dea60" />
+
+<img width="1031" height="414" alt="image" src="https://github.com/user-attachments/assets/30b890fb-b1b2-4714-a68b-8353cb616d12" />
+
+###
+###
+Grant the business user (Shaarda Sharma) access to our Role and Launchpad external user role so they can access our apps:
+
+<img width="1031" height="403" alt="image" src="https://github.com/user-attachments/assets/8ce94add-58bd-426e-8029-63a6a85e0123" />
+
+<img width="1031" height="399" alt="image" src="https://github.com/user-attachments/assets/6463639b-5e7e-4ccb-bf3a-acb994c8e7fb" />
+
+<img width="1031" height="401" alt="image" src="https://github.com/user-attachments/assets/c608a1f1-60a6-41b0-91f4-b0ff54c598c6" />
+
+<img width="792" height="709" alt="image" src="https://github.com/user-attachments/assets/23dfd88f-b95b-4f66-ac5d-02fb34316fdf" />
+
+<img width="1031" height="533" alt="image" src="https://github.com/user-attachments/assets/a62882a8-6a92-44b1-bb27-2dd52df98778" />
+
+###
+###
+Now, our Business User (Shaarda Sharma) goes and access the launchpad (site):
+URL: https://31770533trial.launchpad.cfapps.us10.hana.ondemand.com/site?siteId=db53ae55-aac8-413a-8558-b8b1d723f3e9#Shell-home
+
+<img width="1116" height="465" alt="image" src="https://github.com/user-attachments/assets/b7bc6735-7630-4a2f-ba3c-0271229efd79" />
+
+###
+###
+Clicked on the tile expecting to open LinkedIn url but, system has refused to connect. This is SAP’s problem.
+
+<img width="1128" height="443" alt="image" src="https://github.com/user-attachments/assets/fd3d64d9-5331-400b-bb20-6b0194da4159" />
+
+###
+###
+#### This is how we can subscribe to CIS and Build Work Zone and configured Business users.
+###
+###
+#### Done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
