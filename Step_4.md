@@ -1,4 +1,4 @@
-## SAP Identity Provider – Single Sign-On: 
+## SAP Identity Provider – Single Sign-On (SSO): 
 #### (This is just for information purpose)
 
 <img width="1031" height="275" alt="image" src="https://github.com/user-attachments/assets/14119ad2-b5a1-4a69-845d-ebbeff634157" />
