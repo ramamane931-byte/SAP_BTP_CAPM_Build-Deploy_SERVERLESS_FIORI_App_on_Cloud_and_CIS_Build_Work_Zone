@@ -128,6 +128,7 @@
 <img width="997" height="547" alt="image" src="https://github.com/user-attachments/assets/484ca6f2-c9e6-46f5-939d-fa91e57df2df" />
 
 <img width="819" height="461" alt="image" src="https://github.com/user-attachments/assets/940a148b-4dd4-45d8-ba26-5c8037204d41" />
+
 ###
 ### Interview Question: 
 #### When you deploy a SERVERLESS FIORI app on cloud, on BTP, what are the different components you require?
