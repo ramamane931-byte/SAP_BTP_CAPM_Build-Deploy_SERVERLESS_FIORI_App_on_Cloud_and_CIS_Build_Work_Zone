@@ -94,7 +94,7 @@ Now Business User Admin Subbu has logged in Cloud Identity Services:
 
 ###
 ###
-Now, BTP Admin (Anubhav) will subscribe to the Build Work Zone. And give access to BTP Developer (Anubhav) and Application Admin (Subbu).
+Now, BTP Admin (Ramdas) will subscribe to the Build Work Zone. And give access to BTP Developer (Ramdas) and Application Admin (Subbu).
 
 <img width="1031" height="584" alt="image" src="https://github.com/user-attachments/assets/dffa666f-4c59-41e2-acf9-7aea90512f30" />
 
